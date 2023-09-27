@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text Kazakh </string>
+    <string name="my_str">Str in kazakh</string>
+    <string name="hello_my_name">Hello my name is %s kz </string>
+
+</resources>
