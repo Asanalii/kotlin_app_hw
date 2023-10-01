@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/coding/kotlin/helloApp1/app/src/main/res/drawable/border_for_main.xml" value="0.1775" />
         <entry key="..\:/coding/kotlin/helloApp1/app/src/main/res/drawable/ic_battery.xml" value="0.1775" />
         <entry key="..\:/coding/kotlin/helloApp1/app/src/main/res/drawable/my_borfer.xml" value="0.1775" />
-        <entry key="..\:/coding/kotlin/helloApp1/app/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/coding/kotlin/helloApp1/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/coding/kotlin/helloApp1/app/src/main/res/layout/border_radius.xml" value="0.190625" />
       </map>
     </option>
