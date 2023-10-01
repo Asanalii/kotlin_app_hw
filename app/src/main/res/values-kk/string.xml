@@ -5,4 +5,6 @@
     <string name="my_str">Str in kazakh</string>
     <string name="hello_my_name">Hello my name is %s kz </string>
 
+    <string name="location"><u>Change Location kz</u></string>
+
 </resources>

@@ -2,5 +2,5 @@
     <string name="app_name">Hello app</string>
     <string name="my_str">Check str</string>
     <string name="hello_my_name">Hello my name is %s</string>
-
+    <string name="location"><u>Change Location</u></string>
 </resources>
